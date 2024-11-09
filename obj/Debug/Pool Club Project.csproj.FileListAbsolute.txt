@@ -1,0 +1,12 @@
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\bin\Debug\Pool Club Project.exe.config
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\bin\Debug\Pool Club Project.exe
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\bin\Debug\Pool Club Project.pdb
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool Club Project.csproj.AssemblyReference.cache
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool_Club_Project.Form1.resources
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool_Club_Project.Properties.Resources.resources
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool_Club_Project.UCPool.resources
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool Club Project.csproj.GenerateResource.cache
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool Club Project.csproj.CoreCompileInputs.cache
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool Club Project.exe
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool Club Project.pdb
+D:\Data\Cources Programming Devices\Projects in C#\Pool Club Project\Pool Club Project\obj\Debug\Pool_Club_Project.ReadPoolInfoForm.resources
